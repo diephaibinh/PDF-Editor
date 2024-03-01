@@ -1,0 +1,5 @@
+D:\Tools\PDF Editor\brochure.pdf
+D:\Tools\PDF Editor
+quality	10
+dpi	(300, 300)
+image_size	50
